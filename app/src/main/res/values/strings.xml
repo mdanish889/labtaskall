@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labtaskall</string>
+    <string name="sign_in_user">sign_in_user</string>
+    <string name="enter_the_user_password_here" />
+    <string name="enter_the_user_email_here" />
+    <string name="sign_up" />
+    <string name="enter_the_password_here" />
+    <string name="enter_the_email_here" />
+</resources>

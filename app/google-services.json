@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625585770957",
+    "firebase_url": "https://labtaskall.firebaseio.com",
+    "project_id": "labtaskall",
+    "storage_bucket": "labtaskall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625585770957:android:377f8c8b0c8ecebe3fb484",
+        "android_client_info": {
+          "package_name": "com.example.labtaskall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625585770957-m6qt743loqpmq1umvmbleslct1ejkfti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labtaskall",
+            "certificate_hash": "337df1ac6f4b60cf04d9d17d671d195e1b4bab85"
+          }
+        },
+        {
+          "client_id": "625585770957-45rmligdp91qaahk7k2icumuev18cgr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjD2JmPq_AdwpIfYnrDaA3C3qswjcNfk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625585770957-45rmligdp91qaahk7k2icumuev18cgr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
